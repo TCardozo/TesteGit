@@ -8,6 +8,8 @@ public class Teste {
 	
 	public String testar(String args) {
 		return "OK com argumentos";
+		
+		
 	}
 
 }
